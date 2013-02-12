@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="help_text" >
+
+BulletML is a conversion of the Kenta Cho BulletML demo for the Android Platform.\n\n
+
+See 'About' for a link to the original demo.
+
+\n\n
+
+<b><u>Preferences</u></b>
+
+\n\n
+
+<b>Difficulty</b>
+
+\n\n
+
+Set BulletML rank value..
+
+\n\n
+
+<b>Line Width</b>
+
+\n\n
+
+Draw line thickness. Does not currently work with OpenGL renderer.
+
+\n\n
+
+<b>OpenGL</b>
+
+\n\n
+
+Activate OpenGL renderer.
+
+\n\n
+
+<b>Show Profile</b>
+
+\n\n
+
+Show profiler results when you exit back to launch screen.
+
+\n\n
+
+</string>
+	
+</resources>

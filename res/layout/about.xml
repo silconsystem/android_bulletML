@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/com.netthreads.android.traffic"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+	<TableLayout
+	     android:orientation="horizontal"
+	     android:layout_width="fill_parent"
+	     android:layout_height="wrap_content"
+	     android:stretchColumns="0"
+         android:layout_weight="0.1"
+	     android:gravity="center_vertical|center_horizontal">
+		
+	    <TableRow>
+			<TextView android:id="@+id/text"
+			    android:layout_width="fill_parent" 
+			    android:layout_height="fill_parent"
+			    android:text="@string/app_name"
+			    android:gravity="center_horizontal"/>
+	    </TableRow>
+
+	    <TableRow>
+		    <TextView android:id="@+id/app_version"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"			    
+			        android:gravity="center_horizontal"/>
+	    </TableRow>
+
+	    <TableRow>
+			<TextView android:id="@+id/text"
+			    android:layout_width="fill_parent" 
+			    android:layout_height="fill_parent"
+			    android:text="@string/copyright"
+			    android:gravity="center_horizontal"/>
+	    </TableRow>
+	    
+	    <TableRow>
+			<TextView android:id="@+id/text"
+			    android:layout_width="fill_parent" 
+			    android:layout_height="fill_parent"
+			    android:text="@string/author_site"
+			    android:autoLink="web"
+			    android:gravity="center_horizontal"/>
+	    </TableRow>
+	
+        <TableRow>
+            <TextView android:id="@+id/link_text_view"
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:text="@string/help"/>
+        </TableRow>
+	
+	</TableLayout>
+    
+</LinearLayout>
+    

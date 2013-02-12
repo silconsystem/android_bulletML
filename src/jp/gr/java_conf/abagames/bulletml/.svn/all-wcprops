@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml
+END
+Speed.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Speed.java
+END
+Wait.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Wait.java
+END
+IFireElmChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IFireElmChoice.java
+END
+Vertical.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Vertical.java
+END
+IBulletElmChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IBulletElmChoice.java
+END
+ActionRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/ActionRef.java
+END
+ActionElm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/ActionElm.java
+END
+IRNSContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IRNSContainer.java
+END
+Fire.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Fire.java
+END
+ChangeDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/ChangeDirection.java
+END
+UJAXP.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/UJAXP.java
+END
+Bullet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Bullet.java
+END
+Horizontal.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Horizontal.java
+END
+IActionElmChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IActionElmChoice.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Param.java
+END
+IActionChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IActionChoice.java
+END
+IBulletmlChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IBulletmlChoice.java
+END
+ChangeSpeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/ChangeSpeed.java
+END
+Accel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Accel.java
+END
+RNSContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/RNSContext.java
+END
+URelaxer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/URelaxer2.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Action.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Direction.java
+END
+Bulletml.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Bulletml.java
+END
+IRNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/IRNode.java
+END
+Repeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Repeat.java
+END
+FireRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/FireRef.java
+END
+FireElm.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/FireElm.java
+END
+BulletRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/BulletRef.java
+END
+RStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/RStack.java
+END
+URelaxer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/URelaxer.java
+END
+Vanish.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/bulletml/src/jp/gr/java_conf/abagames/bulletml/Vanish.java
+END

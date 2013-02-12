@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/18/trunk/bulletml/src/com/netthreads/android/bulletml
+END
+GLActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/bulletml/src/com/netthreads/android/bulletml/GLActivity.java
+END
+R.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/bulletml/src/com/netthreads/android/bulletml/R.java
+END
+HelpActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9/trunk/bulletml/src/com/netthreads/android/bulletml/HelpActivity.java
+END
+ApplicationPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/bulletml/src/com/netthreads/android/bulletml/ApplicationPreferences.java
+END
+ProfileRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/trunk/bulletml/src/com/netthreads/android/bulletml/ProfileRecorder.java
+END
+SampleMLListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9/trunk/bulletml/src/com/netthreads/android/bulletml/SampleMLListAdapter.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/trunk/bulletml/src/com/netthreads/android/bulletml/AboutActivity.java
+END
+CanvasActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/bulletml/src/com/netthreads/android/bulletml/CanvasActivity.java
+END
+BulletMLListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/trunk/bulletml/src/com/netthreads/android/bulletml/BulletMLListActivity.java
+END
+PreferencesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/bulletml/src/com/netthreads/android/bulletml/PreferencesActivity.java
+END

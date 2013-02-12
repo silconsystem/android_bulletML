@@ -1,0 +1,162 @@
+8
+
+dir
+18
+https://netthreads-for-android.googlecode.com/svn/trunk/bulletml/src/com/netthreads/android/bulletml
+https://netthreads-for-android.googlecode.com/svn
+
+
+
+2009-05-19T12:43:24.489216Z
+18
+alistair.rutherford
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1aab7638-d374-11dd-8179-53c65a4d6d95
+
+GLActivity.java
+file
+
+
+
+
+2009-05-18T13:31:21.242045Z
+22975338e6e5223d95752b95e2336846
+2009-05-18T13:29:41.433315Z
+16
+alistair.rutherford
+has-props
+
+control
+dir
+
+graphics
+dir
+
+R.java
+file
+
+
+
+
+2009-05-26T12:14:23.283791Z
+271e8a44e245a263edc81ad2f95d8649
+2009-05-13T22:47:43.849579Z
+14
+alistair.rutherford
+
+widget
+dir
+
+HelpActivity.java
+file
+
+
+
+
+2009-05-18T13:31:21.257631Z
+e905f556cd75ca0950365ae9de38b97a
+2009-05-07T12:21:32.665283Z
+9
+alistair.rutherford
+
+ApplicationPreferences.java
+file
+
+
+
+
+2009-05-18T13:31:21.257631Z
+4ceec19201eaa5d96cb4f268980296d5
+2009-05-18T13:29:41.433315Z
+16
+alistair.rutherford
+
+ProfileRecorder.java
+file
+
+
+
+
+2009-05-18T13:31:21.257631Z
+1cd5f8a3a3cc89a3dc3587b5c21412d3
+2009-05-13T22:47:43.849579Z
+14
+alistair.rutherford
+
+SampleMLListAdapter.java
+file
+
+
+
+
+2009-05-18T13:31:21.273217Z
+5c272deee49ee53c15f1098d4c0e6a00
+2009-05-07T12:21:32.665283Z
+9
+alistair.rutherford
+
+AboutActivity.java
+file
+
+
+
+
+2009-05-18T13:31:21.273217Z
+47972e80374e8dc326e7e5892fe659fd
+2009-05-07T12:21:32.665283Z
+9
+alistair.rutherford
+
+CanvasActivity.java
+file
+
+
+
+
+2009-05-18T13:31:21.273217Z
+965c213957303a8d42a30492c4369d9a
+2009-05-18T13:29:41.433315Z
+16
+alistair.rutherford
+has-props
+
+data
+dir
+
+BulletMLListActivity.java
+file
+
+
+
+
+2009-05-18T13:31:21.288803Z
+b15c0c04b70637a554fecd96ca71e656
+2009-05-13T22:47:43.849579Z
+14
+alistair.rutherford
+
+PreferencesActivity.java
+file
+
+
+
+
+2009-05-18T13:31:21.288803Z
+3ffce58fb1a453df9ccc96bcb6dd9dfe
+2009-05-18T13:29:41.433315Z
+16
+alistair.rutherford
+

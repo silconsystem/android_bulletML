@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="link_text" >
+
+\n\n
+
+Android BulletML is conversion of the Kenta Cho BulletML demo at http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index_e.html.\n\n
+
+The source code for this application is available at http://code.google.com/p/netthreads-for-android \n\n
+
+<b><u>About The Author</u></b>\n\n
+
+You can take a look around my current projects at http://www.netthreads.co.uk \n\n
+
+</string>
+	
+</resources>
