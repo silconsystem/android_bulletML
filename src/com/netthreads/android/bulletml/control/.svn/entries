@@ -1,0 +1,54 @@
+8
+
+dir
+18
+https://netthreads-for-android.googlecode.com/svn/trunk/bulletml/src/com/netthreads/android/bulletml/control
+https://netthreads-for-android.googlecode.com/svn
+
+
+
+2009-05-18T13:29:41.433315Z
+16
+alistair.rutherford
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1aab7638-d374-11dd-8179-53c65a4d6d95
+
+ControlCanvasSurfaceView.java
+file
+
+
+
+
+2009-05-18T13:31:20.571847Z
+ad0fce934a7d90fb7b1464428f187171
+2009-05-13T22:47:43.849579Z
+14
+alistair.rutherford
+has-props
+
+ControlGLSurfaceView.java
+file
+
+
+
+
+2009-05-18T13:31:20.587433Z
+661ccd8d545d8578b207ce077de3ac6a
+2009-05-18T13:29:41.433315Z
+16
+alistair.rutherford
+has-props
+

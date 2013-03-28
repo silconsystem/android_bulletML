@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Texture.java
+END
+Renderable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Renderable.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Matrix.java
+END
+GLLogWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLLogWrapper.java
+END
+GLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLSurfaceView.java
+END
+GLDebugHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLDebugHelper.java
+END
+EGLLogWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/EGLLogWrapper.java
+END
+GLErrorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLErrorWrapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/package.html
+END
+GLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLException.java
+END
+GLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLUtils.java
+END
+Grid.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Grid.java
+END
+GLU.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLU.java
+END
+Visibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Visibility.java
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/readme.txt
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Group.java
+END
+Object3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Object3D.java
+END
+Material.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/Material.java
+END
+GLWrapperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/17/trunk/bulletml/src/com/netthreads/android/opengl/GLWrapperBase.java
+END

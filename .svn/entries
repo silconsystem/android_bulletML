@@ -1,0 +1,94 @@
+8
+
+dir
+18
+https://netthreads-for-android.googlecode.com/svn/trunk/bulletml
+https://netthreads-for-android.googlecode.com/svn
+
+
+
+2009-05-19T12:43:24.489216Z
+18
+alistair.rutherford
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1aab7638-d374-11dd-8179-53c65a4d6d95
+
+build
+dir
+
+.classpath
+file
+
+
+
+
+2009-05-18T13:31:21.959001Z
+9b00b22955b39748742d1af3ac60bc5a
+2009-05-07T12:21:32.665283Z
+9
+alistair.rutherford
+
+assets
+dir
+
+license
+dir
+
+.project
+file
+
+
+
+
+2009-05-18T13:31:21.959001Z
+d7acf235f53a62727fcc6a975e9dbe3c
+2009-05-07T12:21:32.665283Z
+9
+alistair.rutherford
+
+AndroidManifest.xml
+file
+21
+
+
+
+2009-05-26T09:07:14.723032Z
+7b43f9ef550aa5f9931e63b7f2b86697
+2009-05-26T12:17:45.799717Z
+21
+alistair.rutherford
+
+src
+dir
+
+bulletml-droid.launch
+file
+
+
+
+
+2009-05-18T13:31:21.974587Z
+1bb05ad755fd4206aed04494db7cacb6
+2009-05-07T12:21:32.665283Z
+9
+alistair.rutherford
+
+libs
+dir
+
+res
+dir
+

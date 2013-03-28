@@ -1,0 +1,9 @@
+# Application
+application-package=com.netthreads.android.bulletml
+
+# Signing information
+keystore.path=C:/Development/java/android/sdk/keystore/bulletml
+keystore.name=bulletml-release-key.keystore
+keystore.alias=bulletml
+
+
